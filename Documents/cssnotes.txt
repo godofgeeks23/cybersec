@@ -1,0 +1,3 @@
+null device - use as garbage dump. null device is '/dev/null'
+example: cmd 2>/dev/null
+this example will write the error produced to the null device. we use this as garbage dump for logs.
